@@ -1,3 +1,3 @@
 # kairu000.github.io
-([AdventureGameMIDTERM/AdventureGameMIDTERM/AdventureGame])
+[Midterm](AdventureGameMIDTERM/AdventureGameMIDTERM/AdventureGame)
 hi there
