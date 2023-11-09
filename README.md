@@ -1,3 +1,4 @@
+theme: minima
 # Kyle Angelo's Portfolio
 
 ![image](https://github.com/Kairu000/kairu000.github.io/assets/147940738/f142b653-9e05-43a6-9dcb-1c6ba3d39e02)
@@ -18,6 +19,3 @@
 
 ### Adopt an Insect
 [Adpot an Insect](https://gist.github.com/Kairu000/84ef9121ea47619e4aff8bb9e4eb46c3) is an app that lets the player take care and customize a pet. 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
