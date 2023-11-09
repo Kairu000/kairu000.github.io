@@ -17,4 +17,4 @@
 [List RPG](https://gist.github.com/Kairu000/695f6a45344fe4c166633dc8c777ec8d) shows an example of how a game experience can be coded so that it can change along the player's choices. Like finding a key and adding it to their inventory. 
 
 ### Adopt an Insect
-[Adpot an Insect] is an app that lets the player take care and customize a pet. 
+[Adpot an Insect](https://gist.github.com/Kairu000/84ef9121ea47619e4aff8bb9e4eb46c3) is an app that lets the player take care and customize a pet. 
