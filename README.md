@@ -14,7 +14,7 @@
 [Choose Your Adventure](https://gist.github.com/Kairu000/8c38e75b38ea6bb2bb77fc3c7130fe5b) shows a way to change the game experience by having different set dialog triggered due to player input. 
 
 ### List RPG
-[List RPG](https://gist.github.com/Kairu000/695f6a45344fe4c166633dc8c777ec8d) shows an example of how a game experience can be coded so that it can change along the player's choices. Like finding a key and adding it to their inventory. 
+[List RPG](https://gist.github.com/Kairu000/695f6a45344fe4c166633dc8c777ec8d) shows an example of how a game experience can be coded so that it can change along the player's choices. Like finding a key and adding it to their inventory. List RPG gave me a quick way of giving the character in my game the ability to "unlock" parts of the game, like abilities, as if they just found a key. 
 
 ### Adopt an Insect
 [Adpot an Insect](https://gist.github.com/Kairu000/84ef9121ea47619e4aff8bb9e4eb46c3) is an app that lets the player take care and customize a pet. 
