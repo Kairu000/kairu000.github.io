@@ -1,4 +1,3 @@
-theme: minima
 # Kyle Angelo's Portfolio
 
 ![image](https://github.com/Kairu000/kairu000.github.io/assets/147940738/f142b653-9e05-43a6-9dcb-1c6ba3d39e02)
