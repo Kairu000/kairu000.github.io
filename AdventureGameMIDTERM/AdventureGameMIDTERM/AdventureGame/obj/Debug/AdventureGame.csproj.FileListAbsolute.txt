@@ -1,0 +1,46 @@
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.AssemblyReference.cache
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.SuggestedBindingRedirects.cache
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.exe.config
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.exe
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.pdb
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.AssemblyReference.cache
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.SuggestedBindingRedirects.cache
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.exe
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.pdb
+C:\Users\kylea\Desktop\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\kylea\Desktop\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\kylea\Desktop\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\kylea\Desktop\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\kylea\Desktop\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\kylea\Desktop\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\kylea\Desktop\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.pdb
+C:\Users\Lapuz\Desktop\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\Lapuz\Desktop\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\Lapuz\Desktop\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\Lapuz\Desktop\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\Lapuz\Desktop\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lapuz\Desktop\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Lapuz\Desktop\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\Lapuz\Desktop\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.pdb
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.exe.config
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.exe
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.pdb
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.AssemblyReference.cache
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.SuggestedBindingRedirects.cache
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.exe
+U:\Kyle Angelo Lapuz\Programming Class\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.pdb
+C:\Users\kylea\Desktop\AdventureGameMIDTERM (2)\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\kylea\Desktop\AdventureGameMIDTERM (2)\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\kylea\Desktop\AdventureGameMIDTERM (2)\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\kylea\Desktop\AdventureGameMIDTERM (2)\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\kylea\Desktop\AdventureGameMIDTERM (2)\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\kylea\Desktop\AdventureGameMIDTERM (2)\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\kylea\Desktop\AdventureGameMIDTERM (2)\AdventureGameMIDTERM\AdventureGameMIDTERM\AdventureGame\obj\Debug\AdventureGame.pdb
